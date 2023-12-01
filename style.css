@@ -1,0 +1,17 @@
+#box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid #b4b4b4;
+    background-color: #fff;
+    padding-top: 96px;
+    padding-left: 119px;
+
+}
+
+#p{
+    color: #808080;
+}
+
+*{
+    box-sizing: border-box;
+}
